@@ -3,9 +3,6 @@
   <!-- Header banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=c753ae&height=180&section=header&text=el1zabethcodes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <!-- Cute floating stars -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="45" />
-
   <!-- Typing animation -->
   <br/>
   <a href="https://github.com/el1zabethcodes">
@@ -20,8 +17,8 @@
     Currently exploring the space between design, AI and real user needs
   </p>
 
-  <!-- Added gif -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="70" />
+  <!-- Big girl gif -->
+  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="350" />
   <br/><br/>
 
   <!-- Pokemon-style Code Trainer Card -->
@@ -34,7 +31,7 @@
   <!-- Cute cat animation -->
   <img src="https://media.tenor.com/PB_2OOh098kAAAAi/pixel-cat.gif" width="70" />
   
-  <!-- Added gif -->
+  <!-- Small pixel gif -->
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="60" />
   <br/><br/>
 
@@ -71,7 +68,7 @@
 
   <br/>
   
-  <!-- Added gif -->
+  <!-- Flower gif -->
   <img src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" width="70" />
   <br/>
 
