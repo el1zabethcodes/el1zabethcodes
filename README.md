@@ -30,9 +30,10 @@
   
   <!-- Cute cat animation -->
   <img src="https://media.tenor.com/PB_2OOh098kAAAAi/pixel-cat.gif" width="70" />
+  <br/><br/>
   
-  <!-- Small pixel gif -->
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="60" />
+  <!-- HUGE pixel gif (increased 13x) -->
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800" />
   <br/><br/>
 
   <!-- Stats cards with pink and green colors -->
